@@ -112,6 +112,10 @@ button{
     margin-right: auto;
 }
 
+button:active{
+    background-color: #EAEAEA;
+}
+
 .banner_imagem{
     flex: 1;
 }
